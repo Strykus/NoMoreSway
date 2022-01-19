@@ -6,4 +6,4 @@ Knowing issues: regular wingman not affected by changing values
 
 Notes: Northstar requires to making this mod work: https://github.com/R2Northstar/Northstar
      
-Install mod by going to Titanfall 2 root directory >>> "R2Northstar" and drop mod folder named "AvalarSway" into "mods" folder.
+Install mod by going to Titanfall 2 root directory >>> "R2Northstar" and drop mod folder named "NoMoreSway" into "mods" folder.
