@@ -13,6 +13,9 @@ Wingman Elite - "mp_wingman_e_sw.txt" and Regular Wingman - "mp_wingman_e_sw.txt
 - You can change values of "viewmodel_offset_hip" "z x y" for your custom hipfire viewmodel.
 - You can change values of "zoom_fov" "field of view you want to use" to chagne field of view when using ADS and you can change for the each scope that game have in "mp_weapons_fov_sw.txt" in "Mods" section.
 
+v1.2 - Removed ability to change zoom_fov for each weapon scope because it causing broken scope on custom servers for now.
+- moved EPG, Cold War, SMR, MGL and Softball now sending request to setting in mp_defender_fov_sw.txt file, because ADS was broken for those weapons.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notes: Northstar requires to making this mod work: https://github.com/R2Northstar/Northstar
