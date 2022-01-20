@@ -1,0 +1,1 @@
+#base "mp_weapons_fov_sw.txt"

@@ -1,6 +1,6 @@
 {
 	"Name": "NoMoreSway_by_Avalar",
-	"Description": "Removing Weapon Sway while ads so sight stop running away from centre of the screen in addition for it increased ads fov for some weapons and weapon_dof removed sights and hipfire viewmodel position(pilot weapons only and B3 Wingman not affected by these values)",
-	"Version": "1.0",
+	"Description": "Removing Weapon Sway while ADS so sight stop shifting away from centre of the screen. In addition for it increased ads FOV for some weapons in ADS and dof was removed when ADS changed hipfire viewmodel position that can be changed manualy in "mp_weapons_fov_sw.txt".
+	"Version": "1.1",
 	"LoadPriority": 0
 }
