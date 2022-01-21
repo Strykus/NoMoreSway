@@ -1,0 +1,42 @@
+WeaponData
+{
+	MP_BASE
+	{
+		// Default: "0 0 0"
+		"viewmodel_offset_hip" "2.5 -2 -3" // hipfire viewmodel that you can change how you like (x z y)
+
+
+	}
+
+	"dof_zoom_nearDepthStart"						"0"
+	"dof_zoom_nearDepthEnd"							"0"
+	"dof_nearDepthStart"							"0"
+	"dof_nearDepthEnd"								"0"
+
+
+	// Zoomed Sway
+	"sway_rotate_attach_zoomed"						"SWAY_ROTATE_ZOOMED"
+	"sway_rotate_attach_blend_time_zoomed"			"0.0"
+	"sway_rotate_gain_zoomed"						"0"
+
+	"sway_min_yaw_zoomed"							"0.0"
+	"sway_max_yaw_zoomed"							"0.0"
+	"sway_turn_left_rotate_yaw_zoomed"				"0.0"
+	"sway_turn_right_rotate_yaw_zoomed"				"0.0"
+
+	"sway_min_roll_zoomed"   						"0"
+	"sway_max_roll_zoomed"   						"0"
+	"sway_turn_left_rotate_roll_zoomed"   			"0"
+	"sway_turn_right_rotate_roll_zoomed"  			"0"
+
+	"sway_move_right_rotate_roll_zoomed" 			"0.0"
+	"sway_move_left_rotate_roll_zoomed"  			"0.0"
+
+	"sway_min_pitch_zoomed"  						"0.0"
+	"sway_max_pitch_zoomed"  						"0.0"
+	"sway_turn_up_rotate_pitch_zoomed"				"0.0"
+	"sway_turn_down_rotate_pitch_zoomed"			"0.0"
+
+			"zoom_fov"		    	"35" // changing field of view while ADS for every scope
+
+}
