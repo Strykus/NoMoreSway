@@ -15,6 +15,6 @@ WeaponData
 
 	"charge_effect_1p"								"0" // removing charge effect from Charge Rifle and dont add here Zoomed Sway values because weapon will freakout when you try to moove in ADS
 
-			"zoom_fov"		    	"70" // you can change fov of the wingman on what you like
+			"zoom_fov"		    	"70" // you can change fov of the Charge Rifle EPG, Cold War, SMR, MGL and Softball on what you like
 
 }
