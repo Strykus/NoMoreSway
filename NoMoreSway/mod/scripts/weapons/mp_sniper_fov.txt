@@ -37,6 +37,6 @@ WeaponData
 	"sway_turn_up_rotate_pitch_zoomed"				"0.0"
 	"sway_turn_down_rotate_pitch_zoomed"			"0.0"
 
-			"zoom_fov"		    	"35" // changing field of view while ADS for every scope
+			"zoom_fov"		    	"35" // changing field of view while ADS for every sniper scope
 
 }
