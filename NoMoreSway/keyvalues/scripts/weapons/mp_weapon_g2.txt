@@ -1,1 +1,1 @@
-#base "mp_weapons_fov_sw.txt"
+#base "mp_g2_fov_sw.txt"
