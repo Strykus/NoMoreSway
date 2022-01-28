@@ -14,6 +14,12 @@ WeaponData
 	"dof_nearDepthEnd"								"0"
 
 
+	// View Kick
+
+	"viewkick_ads_weaponFraction" 					"0.0"
+	"viewkick_ads_weaponFraction_vmScale" 			"0.0"
+
+
 	// Zoomed Sway
 	"sway_rotate_attach_zoomed"						"SWAY_ROTATE_ZOOMED"
 	"sway_rotate_attach_blend_time_zoomed"			"0.0"
@@ -37,6 +43,6 @@ WeaponData
 	"sway_turn_up_rotate_pitch_zoomed"				"0.0"
 	"sway_turn_down_rotate_pitch_zoomed"			"0.0"
 
-			"zoom_fov"		    	"35" // changing field of view while ADS for every sniper scope
+			"zoom_fov"		    	"35" // changing field of view while ADS for every sniper scope Kraber,DouleTake,DMR
 
 }
