@@ -1,0 +1,95 @@
+WeaponData
+{
+	MP_BASE
+	{
+		// Default: "0 0 0"
+		"viewmodel_offset_hip" "2.5 -2 -3"
+
+
+
+
+	}
+
+	"dof_zoom_nearDepthStart"						"0"
+	"dof_zoom_nearDepthEnd"							"0"
+	"dof_nearDepthStart"							"0"
+	"dof_nearDepthEnd"								"0"
+
+
+	// Zoomed Sway
+	"sway_rotate_attach_zoomed"						"SWAY_ROTATE_ZOOMED"
+	"sway_rotate_attach_blend_time_zoomed"			"0.0"
+	"sway_rotate_gain_zoomed"						"0"
+
+	"sway_min_yaw_zoomed"							"0.0"
+	"sway_max_yaw_zoomed"							"0.0"
+	"sway_turn_left_rotate_yaw_zoomed"				"0.0"
+	"sway_turn_right_rotate_yaw_zoomed"				"0.0"
+
+	"sway_min_roll_zoomed"   						"0"
+	"sway_max_roll_zoomed"   						"0"
+	"sway_turn_left_rotate_roll_zoomed"   			"0"
+	"sway_turn_right_rotate_roll_zoomed"  			"0"
+
+	"sway_move_right_rotate_roll_zoomed" 			"0.0"
+	"sway_move_left_rotate_roll_zoomed"  			"0.0"
+
+	"sway_min_pitch_zoomed"  						"0.0"
+	"sway_max_pitch_zoomed"  						"0.0"
+	"sway_turn_up_rotate_pitch_zoomed"				"0.0"
+	"sway_turn_down_rotate_pitch_zoomed"			"0.0"
+
+			"zoom_fov"		    	"45"
+
+	Mods //Spitfire bellow you can chagne fov("zoom_fov") for each scope that you want, and change iron_sight fov in the value above this comment
+	{
+		iron_sights
+		{
+
+
+		}
+		aog
+		{
+
+			"dof_zoom_nearDepthStart"						"0.0"
+			"dof_zoom_nearDepthEnd"							"0.0"
+
+			"zoom_fov"		    	"55"
+			dof_zoom_focusArea_horizontal					0.0
+			dof_zoom_focusArea_top							0.0
+			dof_zoom_focusArea_bottom						0.0
+		}
+		holosight
+		{
+
+			"dof_zoom_nearDepthStart"						"0.0"
+			"dof_zoom_nearDepthEnd"							"0.0"
+
+			"zoom_fov"						"45"
+			dof_zoom_focusArea_horizontal					0.0
+			dof_zoom_focusArea_top							0.0
+			dof_zoom_focusArea_bottom						0.0
+		}
+		redline_sight
+		{
+
+			"dof_zoom_nearDepthStart"						"0.0"
+			"dof_zoom_nearDepthEnd"							"0.0"
+
+			"zoom_fov"						"45"
+			dof_zoom_focusArea_horizontal					0.0
+			dof_zoom_focusArea_top							0.0
+			dof_zoom_focusArea_bottom						0.0
+		}
+		threat_scope
+		{
+			"dof_zoom_nearDepthStart"						"0.0"
+			"dof_zoom_nearDepthEnd"							"0.0"
+
+			"zoom_fov"						"20"
+			dof_zoom_focusArea_horizontal					0.0
+			dof_zoom_focusArea_top							0.0
+			dof_zoom_focusArea_bottom						0.0
+		}
+	{
+}
