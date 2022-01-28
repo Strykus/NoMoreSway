@@ -16,6 +16,10 @@ Wingman Elite - "mp_wingman_e_sw.txt" and Regular Wingman - "mp_wingman_e_sw.txt
 v1.2 - Removed ability to change zoom_fov for each weapon scope because it causing broken scope on custom servers for now.
 - moved EPG, Cold War, SMR, MGL and Softball now sending request to setting in mp_defender_fov_sw.txt file, because ADS was broken for those weapons.
 
+v1.3 
+- Add back Ability to change zoom_fov for each weapon scope depends on weapon type - mp_alternator/mp_assault/mp_lmg/mp_spitfire/mp_g2/mp_smg ect.
+- Fixed Hemlock scopes was not showed correctly
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notes: Northstar requires to making this mod work: https://github.com/R2Northstar/Northstar
