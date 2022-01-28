@@ -1,6 +1,6 @@
 {
 	"Name": "NoMoreSway_by_Avalar",
 	"Description": "Removing Weapon Sway while ADS so sight stop shifting away from centre of the screen. In addition for it increased ads FOV for some weapons in ADS, changed default hipfire viewmodel position that can be changed manualy in mp_weapons_fov_sw.txt",
-	"Version": "1.2",
+	"Version": "1.3",
 	"LoadPriority": 0
 }
