@@ -14,6 +14,12 @@ WeaponData
 	"dof_zoom_nearDepthEnd"							"0"
 	"dof_nearDepthStart"							"0"
 	"dof_nearDepthEnd"								"0"
+	
+	// View Kick
+	"viewkick_spring" 								"car"
+
+	"viewkick_ads_weaponFraction" 					"0"
+	"viewkick_ads_weaponFraction_vmScale" 			"0"
 
 
 	// Zoomed Sway
