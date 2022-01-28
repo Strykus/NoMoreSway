@@ -55,18 +55,7 @@ WeaponData
 			"dof_zoom_nearDepthStart"						"0.0"
 			"dof_zoom_nearDepthEnd"							"0.0"
 
-			"zoom_fov"		    	"45"
-			dof_zoom_focusArea_horizontal					0.0
-			dof_zoom_focusArea_top							0.0
-			dof_zoom_focusArea_bottom						0.0
-		}
-		holosight
-		{
-
-			"dof_zoom_nearDepthStart"						"0.0"
-			"dof_zoom_nearDepthEnd"							"0.0"
-
-			"zoom_fov"		    	"45"
+			"zoom_fov"		    	"55"
 			dof_zoom_focusArea_horizontal					0.0
 			dof_zoom_focusArea_top							0.0
 			dof_zoom_focusArea_bottom						0.0
@@ -83,16 +72,6 @@ WeaponData
 			dof_zoom_focusArea_bottom						0.0
 		}
 		threat_scope
-		{
-			"dof_zoom_nearDepthStart"						"0.0"
-			"dof_zoom_nearDepthEnd"							"0.0"
-
-			"zoom_fov"						"20"
-			dof_zoom_focusArea_horizontal					0.0
-			dof_zoom_focusArea_top							0.0
-			dof_zoom_focusArea_bottom						0.0
-		}
-		aog
 		{
 			"dof_zoom_nearDepthStart"						"0.0"
 			"dof_zoom_nearDepthEnd"							"0.0"
