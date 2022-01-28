@@ -1,6 +1,6 @@
 # NoMoreSway
 Removing Weapon Sway in ADS in Titanfall 2
-[NoMoreSway_by_Avalar v1.2]
+[NoMoreSway_by_Avalar v1.3]
 
 Want to ask me something? feel free to dm in my discord: Avalar#2742
 
