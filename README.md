@@ -2,6 +2,8 @@
 Removing Weapon Sway in ADS in Titanfall 2
 [NoMoreSway_by_Avalar v1.2]
 
+[LastRelease](https://github.com/Strykus/NoMoreSway/releases/tag/NoMoreSwayRelease)
+
 Want to ask me something? feel free to dm in my discord: Avalar#2742
 
 v1.0 - Working as intended, but values not affecting regular Wingman for some reasons.
