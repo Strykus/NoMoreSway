@@ -1,6 +1,6 @@
 # NoMoreSway
 Removing Weapon Sway in ADS in Titanfall 2
-[NoMoreSway_by_Avalar v1.3]
+[NoMoreSway_by_Avalar v1.4]
 
 [LastRelease](https://github.com/Strykus/NoMoreSway/releases/tag/NoMoreSwayRelease)
 
@@ -23,6 +23,10 @@ v1.2 - Removed ability to change zoom_fov for each weapon scope because it causi
 v1.3 
 - Add back Ability to change zoom_fov for each weapon scope depends on weapon type - mp_alternator/mp_assault/mp_lmg/mp_spitfire/mp_g2/mp_smg ect.
 - Fixed Hemlock scopes was not showed correctly
+
+v1.4
+- Fixed ADS scope shifts away from centre of the screen, now scope following weapon spread
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notes: Northstar requires to making this mod work: https://github.com/R2Northstar/Northstar
