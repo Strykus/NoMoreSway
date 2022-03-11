@@ -3,10 +3,10 @@ WeaponData
 	MP_BASE
 	{
 		// Default: "0 0 0"
-		"viewmodel_offset_hip" "2.5 -2 -3"
+		//"viewmodel_offset_hip" "2.5 -2 -3" // hipfire viewmodel that you can change how you like (-left/x/right front/z/-back up/y/-down)
 
 
-		"viewmodel_offset_ads"							"0 -2 -0.04" // Fixing Hemlock Irons Sight that shifted up from the centre of the screen
+		"viewmodel_offset_ads"							"0 -2 -0.02" // Fixing Hemlock Irons Sight that shifted up from the centre of the screen
 
 
 	}
@@ -40,46 +40,6 @@ WeaponData
 	"sway_turn_up_rotate_pitch_zoomed"				"0.0"
 	"sway_turn_down_rotate_pitch_zoomed"			"0.0"
 
-			"zoom_fov"		    	"45"
+			//"zoom_fov"		    	"45"
 
-	Mods //bellow you can chagne fov("zoom_fov") for each scope that you want, and change iron sight in the value above this comment
-	{
-		iron_sights
-		{
-
-
-		}
-		hcog
-		{
-
-			"dof_zoom_nearDepthStart"						"0.0"
-			"dof_zoom_nearDepthEnd"							"0.0"
-
-			"zoom_fov"		    	"55"
-			dof_zoom_focusArea_horizontal					0.0
-			dof_zoom_focusArea_top							0.0
-			dof_zoom_focusArea_bottom						0.0
-		}
-		redline_sight
-		{
-
-			"dof_zoom_nearDepthStart"						"0.0"
-			"dof_zoom_nearDepthEnd"							"0.0"
-
-			"zoom_fov"						"45"
-			dof_zoom_focusArea_horizontal					0.0
-			dof_zoom_focusArea_top							0.0
-			dof_zoom_focusArea_bottom						0.0
-		}
-		threat_scope
-		{
-			"dof_zoom_nearDepthStart"						"0.0"
-			"dof_zoom_nearDepthEnd"							"0.0"
-
-			"zoom_fov"						"20"
-			dof_zoom_focusArea_horizontal					0.0
-			dof_zoom_focusArea_top							0.0
-			dof_zoom_focusArea_bottom						0.0
-		}
-	{
 }

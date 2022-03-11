@@ -3,7 +3,7 @@ WeaponData
 	MP_BASE
 	{
 		// Default: "0 0 0"
-		"viewmodel_offset_hip" "2.5 -2 -3" // hipfire viewmodel that you can change how you like (x z y)
+		//"viewmodel_offset_hip" "2.5 -2 -3" // hipfire viewmodel that you can change how you like (-left/x/right front/z/-back up/y/-down)
 
 
 	}
@@ -13,8 +13,8 @@ WeaponData
 	"dof_nearDepthStart"							"0"
 	"dof_nearDepthEnd"								"0"
 
-	"charge_effect_1p"								"0" // removing charge effect from Charge Rifle and dont add here Zoomed Sway values because weapon will freakout when you try to moove in ADS
+	//"charge_effect_1p"								"0" // removing charge effect from Charge Rifle and dont add here Zoomed Sway values because weapon will freakout when you try to moove in ADS
 
-			"zoom_fov"		    	"70" // you can change fov of the Charge Rifle EPG, Cold War, SMR, MGL and Softball on what you like
+			//"zoom_fov"		    	"70" // you can change fov of the Charge Rifle EPG, Cold War, SMR, MGL and Softball on what you like
 
 }

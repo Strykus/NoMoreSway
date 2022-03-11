@@ -3,7 +3,7 @@ WeaponData
 	MP_BASE
 	{
 		// Default: "0 0 0"
-		"viewmodel_offset_hip" "2.5 -2 -3" // hipfire viewmodel that you can change how you like (x z y)
+		//"viewmodel_offset_hip" "2.5 -2 -3" // hipfire viewmodel that you can change how you like (-left/x/right front/z/-back up/y/-down)
 
 
 	}
@@ -36,6 +36,6 @@ WeaponData
 	"sway_turn_up_rotate_pitch_zoomed"				"0.0"
 	"sway_turn_down_rotate_pitch_zoomed"			"0.0"
 
-			"zoom_fov"		    	"70" //you can change fov of the wingman on what you like
+			//"zoom_fov"		    	"70" //you can change fov of the wingman on what you like
 
 }
